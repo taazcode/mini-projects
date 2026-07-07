@@ -1,5 +1,5 @@
 
-#for  code part  ofstudent management system 
+#for  code part  of student management system 
 students={}      
 
 while True:
